@@ -93,6 +93,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  fluttericon:
+    dependency: "direct main"
+    description:
+      name: fluttericon
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   github:
     dependency: "direct main"
     description:
@@ -294,6 +301,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.2"
+  window_to_front:
+    dependency: "direct main"
+    description:
+      path: "../window_to_front"
+      relative: true
+    source: path
+    version: "0.0.1"
 sdks:
   dart: ">=2.17.3 <3.0.0"
   flutter: ">=2.10.0"

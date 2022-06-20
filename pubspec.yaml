@@ -34,6 +34,9 @@ dependencies:
   url_launcher: ^6.1.3
   flutter_dotenv: ^5.0.2
   github: ^9.2.0
+  window_to_front:
+    path: ../window_to_front
+  fluttericon: ^2.0.0
 
 dev_dependencies:
   flutter_test:
