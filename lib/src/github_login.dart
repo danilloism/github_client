@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:oauth2/oauth2.dart' as oauth2;
 import 'package:url_launcher/url_launcher.dart';
 
-import 'config.dart';
+import '../config.dart';
 
 class GithubLoginWidget extends StatefulWidget {
   const GithubLoginWidget({super.key, required this.builder});
